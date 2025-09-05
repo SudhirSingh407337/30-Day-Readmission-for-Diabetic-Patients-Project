@@ -7,7 +7,14 @@ This project focuses on predicting **30-day hospital readmissions for diabetic p
 - 🛠 **Feature Engineering** – handling categorical variables and creating meaningful features for prediction  
 - 💾 **Database Integration** – implementing a relational database schema for efficient data management  
 - 🤖 **Predictive Modeling** – comparing logistic regression and decision tree models for readmission prediction  
-- 🎯 **Goal** – identify key readmission factors and build an accurate classification model to improve patient care  
+- 🎯 **Goal** – identify key readmission factors and build an accurate classification model to improve patient care
+
+---
+### 🏥 30-Day Readmission for Patients with Diabetes Project Video
+
+[![30-Day Readmission for Patients with Diabetes](https://img.youtube.com/vi/kZlwyk57UZM/0.jpg)](https://youtu.be/kZlwyk57UZM)
+
+🎥 [30-Day Readmission for Patients with Diabetes](https://youtu.be/kZlwyk57UZM) 🎥  
 
 ---
 
